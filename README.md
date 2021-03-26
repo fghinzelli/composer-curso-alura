@@ -1,2 +1,2 @@
 # composer-curso-alura
-Projeto desenvolvido no curso de Composer da Alura 
+Simple project to test package publication.
